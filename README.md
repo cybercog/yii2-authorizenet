@@ -36,7 +36,6 @@ Usage Examples
 Once the extension is installed, simply use it in your code by  :
 
 ````php
-	
 	use tenbulls\authorizenet\Api;
 	Api::init();
 	define("AUTHORIZENET_API_LOGIN_ID", "752tVh6FXc");
