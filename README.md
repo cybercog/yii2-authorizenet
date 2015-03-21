@@ -1,6 +1,6 @@
 YII2 Authorizenet Gateway Extensions
 ====================================
-YII2 Authorizenet Gateway Extension
+YII2 Authorizenet Payment Gateway Extension
 
 Installation
 ------------
