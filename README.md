@@ -38,8 +38,8 @@ Once the extension is installed, simply use it in your code by  :
 ````php
 	use tenbulls\authorizenet\Api;
 	Api::init();
-	define("AUTHORIZENET_API_LOGIN_ID", "752tVh6FXc");
-	define("AUTHORIZENET_TRANSACTION_KEY", "72PWU2Xd7g4a7m46");
+	define("AUTHORIZENET_API_LOGIN_ID", "YOURLOGIN");
+	define("AUTHORIZENET_TRANSACTION_KEY", "YOURKEY");
 	define("AUTHORIZENET_SANDBOX", true);
 
 	$sale = new AuthorizeNetAIM;
